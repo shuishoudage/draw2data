@@ -1,6 +1,6 @@
 ### Draw2Data
 
-![demo]('./image/2019-04-11 00.53.13.gif')
+![demo](demo.gif)
 
 #### Motivation
 
